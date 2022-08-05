@@ -1,8 +1,8 @@
 package = "kong-oidc"
-version = "1.2.4-4"
+version = "1.2.4-5-dcbrain"
 source = {
-    url = "git://github.com/revomatico/kong-oidc",
-    tag = "master",
+    url = "git://github.com/DCbrainOrg/kong-oidc",
+    tag = "1.2.4-5-dcbrain",
     dir = "kong-oidc"
 }
 description = {
