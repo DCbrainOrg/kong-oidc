@@ -2,7 +2,7 @@ package = "kong-oidc"
 version = "1.2.4-5-dcbrain"
 source = {
     url = "git://github.com/DCbrainOrg/kong-oidc",
-    tag = "1.2.4-5-dcbrain",
+    tag = "master",
     dir = "kong-oidc"
 }
 description = {
